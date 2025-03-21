@@ -1,5 +1,6 @@
 # WorkExamples
 ALL of the code from my work examples on youtube
+(didnt upload all of it yet tho)
 
 # Best One
 I'd recommend you to look inside the private project, because its one of the best projects i've worked on so far
